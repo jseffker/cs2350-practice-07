@@ -5,3 +5,5 @@ require.context('../stylesheets/', true, /\.(css|scss)$/i)
 
 // JavaScript
 //TODO
+import 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
